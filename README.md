@@ -8,7 +8,7 @@
 <img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
   
-A 22Y/O Software🌈 developer🎯 from India. I'm passionate about Software Development.I know that facing many technical problems can broaden our technical knowledge.
+A 23Y/O Software🌈 developer🎯 from India. I'm passionate about Software Development.I know that facing many technical problems can broaden our technical knowledge.
 I learn everyday about how to use the technology in the best way and I feel very satisfied while doing our work.
 
 
@@ -19,15 +19,15 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 
 
-- 🌱 I’m currently learning JAVA with Data Structure And Algorithm.
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/its_me_rits0.0/) 
+- 🌱 I’m currently Working in Insabhi Technology.
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/itz_mono0.4/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
 
 ## 🏆 Github Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buddhadev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buddhadev04&show_icons=true&theme=radical)
 
 
 ## 👨‍💻 Languages and Tools
